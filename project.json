@@ -1,0 +1,24 @@
+{
+  "overview": "jobbly.ai is a modern SaaS job search automation platform with a sleek glassmorphism design. It features AI-powered job routing, auto email generation, and Telegram channel scraping — all wrapped in a premium dark-themed UI.",
+  "features": [
+    "Full-screen landing page with animated hero and scroll-reveal sections",
+    "Glassmorphism design system with deep black background and glass cards",
+    "Guided 5-step onboarding flow with progress bar and validation",
+    "Dashboard with real-time stats, connection status, and Telegram toggle",
+    "Email and Others data tables with expandable rows and pagination",
+    "Telegram integration page with connected/disconnected states",
+    "Profile management with completeness tracking and editable sections",
+    "Fixed left sidebar navigation for all authenticated pages"
+  ],
+  "category": "saas-dashboard",
+  "tags": [
+    "job-search",
+    "automation",
+    "saas",
+    "glassmorphism",
+    "dashboard",
+    "telegram",
+    "ai"
+  ],
+  "last_updated": "2026-04-09T10:26:19.730Z"
+}
